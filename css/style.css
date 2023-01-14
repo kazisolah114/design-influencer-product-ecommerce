@@ -308,7 +308,7 @@ nav{
 }
 .banner-content .banner-cont-images .background-img img {
     width: 85%;
-    top: 60px;
+    top: 100px;
     left: 40px;
 }
 .banner-content .banner-cont-text {
@@ -329,7 +329,7 @@ nav{
     flex-wrap: wrap;
     gap: 10px 45px;
     border: none;
-    paddng:0;
+    padding: 0;
 }
 .brands-content img {
     width: 50px;
